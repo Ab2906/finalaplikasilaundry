@@ -1,0 +1,3 @@
+module GOLANG-INTRODUCTION
+
+go 1.22.5
